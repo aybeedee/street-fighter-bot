@@ -1,7 +1,7 @@
 # street-fighter-bot
 A Street Fighter II AI bot built using a PyTorch Neural Network
 
-# how to run the bot
+## how to run the bot
 - Run EmuHawk.exe application (present in single-player directory)
 - In the emulator, go to File, Open ROM
 - Select the "STreet Fighter II Turbo (U).smc" file
